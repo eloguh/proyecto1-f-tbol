@@ -1,1 +1,1 @@
-# proyecto1-f-tbol
+# en este repositorio está el proceso de creación de nuestro estudio
